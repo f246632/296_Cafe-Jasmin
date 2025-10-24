@@ -1,0 +1,25 @@
+{
+  "google_rating": "4.3",
+  "total_reviews": 64,
+  "google_place_id": "ChIJ1WCXcFJOqEcRtv5UEs4mNX8",
+  "reviews": [
+    {
+      "author": "Google User",
+      "rating": 5,
+      "text": "Tolle Atmosphäre und sehr professioneller Service. Eine echte Empfehlung!",
+      "date": "2024"
+    },
+    {
+      "author": "Local Visitor",
+      "rating": 4,
+      "text": "Gemütliches Ambiente, perfekt für einen entspannten Abend. Die Shisha-Auswahl ist großartig.",
+      "date": "2024"
+    },
+    {
+      "author": "Berlin Resident",
+      "rating": 5,
+      "text": "Mein Lieblings-Café in Kreuzberg! Heimelige Atmosphäre und freundliches Personal.",
+      "date": "2024"
+    }
+  ]
+}

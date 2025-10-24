@@ -1,0 +1,65 @@
+{
+  "categories": [
+    {
+      "name": "Getränke / Drinks",
+      "items": [
+        {
+          "name": "Kaffee / Coffee",
+          "description": "Frisch gebrühter Kaffee",
+          "price": "2.50€"
+        },
+        {
+          "name": "Cappuccino",
+          "description": "Klassischer Cappuccino",
+          "price": "3.50€"
+        },
+        {
+          "name": "Espresso",
+          "description": "Starker italienischer Espresso",
+          "price": "2.00€"
+        },
+        {
+          "name": "Tee / Tea",
+          "description": "Verschiedene Teesorten",
+          "price": "2.50€"
+        },
+        {
+          "name": "Frische Säfte / Fresh Juices",
+          "description": "Verschiedene Sorten",
+          "price": "4.00€"
+        }
+      ]
+    },
+    {
+      "name": "Shisha",
+      "items": [
+        {
+          "name": "Klassische Shisha",
+          "description": "Verschiedene Geschmacksrichtungen",
+          "price": "ab 8.00€"
+        },
+        {
+          "name": "Premium Shisha",
+          "description": "Exklusive Tabaksorten",
+          "price": "ab 12.00€"
+        }
+      ]
+    },
+    {
+      "name": "Snacks",
+      "items": [
+        {
+          "name": "Orientalische Mezze",
+          "description": "Auswahl an orientalischen Vorspeisen",
+          "price": "8.00€"
+        },
+        {
+          "name": "Gebäck",
+          "description": "Frisches Gebäck und Kuchen",
+          "price": "3.50€"
+        }
+      ]
+    }
+  ],
+  "note": "Alle Preise können variieren. Bitte fragen Sie nach aktuellen Preisen."
+}
